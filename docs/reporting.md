@@ -13,3 +13,6 @@ At the bottom right of the interface, you will find four primary export options:
 
 !!! tip "Reporting Deadlines"
     Remember to ensure all data is validated and up-to-date before the Spring (March 1st) and Autumn (September 1st) reporting windows close.
+
+!!! warning "Can't export report?"
+    If a new TAB or window did not open, your browser's pop-up blocker intercepted it. Please check your browser address bar and try to click the ExportCSV button again.

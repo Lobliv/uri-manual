@@ -6,17 +6,19 @@ The URI platform provides a robust filtering system allowing you to easily navig
 
 At the top of the interface, you can refine the visible URs in the left-hand list using the following controls:
 
+![Screenshot of the Top Search and Filter Bar](assets/search_bar.png)
+
 * **Search by UR ID:** Type the specific ID (e.g., `URA1_8`) to instantly locate a record.
-!!! Tip
-    You need to include "UR" at the beginning for seaching a specific UR. You can't enter only "A1".
-* **Show Unfilled UR Only (Checkbox):** Quickly filter the list to show only the URs that require your society's attention and have not yet been assigned a status.
+!!! Tip "Search Tip"
+    Always include "UR" at the beginning for seaching a specific UR. You can't enter only "A1".
 * **Applicability (Dropdown):** Filter by `All`, `Yes`, or `No`.
+* **Show Unfilled UR Only (Checkbox):** Quickly filter the list to show only the URs that require your society's attention and have not yet been assigned a status.
 * **Show Reservations Only (Checkbox):** Isolates the list to display only URs where a Partial or Full Reservation has been declared.
 * **Show active UR Only (Checkbox):** Isolates the list to display only current or future version of URs.
-!!! warning
+!!! warning "Conflict Conditions"
     Some filters can't be applied at the same time. (e.g. unfilled and Show Reservation Only are contradictory)
 
-![Screenshot of the Top Search and Filter Bar](assets/search_bar.png)
+
 
 ### Understanding the Data List
 
